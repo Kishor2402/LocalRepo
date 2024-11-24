@@ -1,3 +1,3 @@
 # This is my Local Repo
-<br>
-Made a local repository for simple htnl css code
+<br><br>
+Made a local repository for simple HTML and CSS Project
